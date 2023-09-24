@@ -1,0 +1,1 @@
+C:\Users\c4s23\YandexDisk\RiderProjects\TicTacToe\TicTacToe\TicTacToe.csproj;x64
